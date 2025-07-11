@@ -64,7 +64,10 @@
   border-radius: 10px;
  }
 /* main style here */
- .main-div{
+ 
+
+
+.main-div{
   width: 1140px;
   height:328px;
   display: flex;
@@ -180,9 +183,121 @@
  }
 
  .div-three-container{
-  
-  background-color: #f2ededd0;
+  background-color: #e4dcdc8c;
   border-radius: 25px;
   padding: 10px;
 
  }
+
+
+ .section-four{
+  width: 1140px;
+  height: 698px;
+ }
+
+ .div-four-container{
+  text-align: center;
+  
+ }
+
+ .div-four-container h1{
+  font-size: 42px;
+
+ }
+
+ .div-four-container button{
+  width: 195px;
+  height: 48px;
+  background-color: #4E47FF;
+  border-style: none;
+  border-radius: 15px;
+  color: white;
+  font-size: 15px;
+ }
+ .div-four-container img{
+  width: 840px;
+  height: 340px;
+  border-radius: 50px;
+  margin-top: 20px;
+ }
+
+ .container-five{
+  width: 1140px;
+  height: 598px;
+  margin: 70px;
+ }
+
+ .div-five h1{
+  width: 300px;
+  height: 362px;
+  font-size: 97px;
+
+
+ }
+
+ .div-five{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+ .form-div label{
+  display: block;
+  font-size: 28px;
+  width: 497px;
+  
+ }
+
+ .form-div{
+  width: 497px;
+  height: 250px;
+ }
+ .form-div input, textarea{
+  width: 297px;
+  font-size: 20px;
+  background-color:#ffffff;
+  padding: 10px;
+  border-radius: 10px;
+
+
+ }
+
+ .form-div button{
+  width: 297px;
+  height: 48px;
+  border-radius: 10px;
+  background-color: #4E47FF;
+  border-style: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+ }
+
+
+ .footer-part{
+  width: 1140px;
+  height: 300px;
+  text-align: center;
+ }
+
+ .footer-content h1{
+  font-size: 65px;
+  font-weight: 900;
+  color: #4E47FF;
+ }
+
+ .footer-content ul{
+  display: flex;
+  gap: 35px;
+  text-align: center;
+  list-style: none;
+  
+ }
+
+ .footer-content ul li a{
+  text-decoration: none;
+  
+  
+ }
+
+ 
