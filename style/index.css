@@ -75,7 +75,8 @@
 
  .main-div img{
   border-radius: 20px;
-  width: 40%;
+  width: 403px;
+  height: 328px;
  }
 
  .main-content{
@@ -99,4 +100,46 @@
   background-color: #4E47FF;
   border-style: none;
   border-radius: 10px;
+  color: white;
+  font-size: 20px;
+ }
+
+ /* section two style here */
+
+ .section-two{
+  width: 1140px;
+  height: 250px;
+  background-color: #4d47ff25;
+  margin: 70px;
+  padding: 50px 150px;
+  text-align: center;
+  border-radius: 15px;
+ }
+
+ .heading-1{
+  font-size: 28px;
+ }
+
+ .user-box{
+  width: 150px;
+  height: 70px;
+  display: flex;
+  gap: 150px;
+  align-items: center;
+
+
+
+ }
+
+ .user-box h4{
+  font-size: 70px;
+    margin-bottom: 0;
+  color: #4E47FF;
+ }
+
+ .user-box p{
+  font-size: 15px;
+  color: #000000de;
+  margin-top: 0;
+
  }
