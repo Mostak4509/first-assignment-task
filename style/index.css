@@ -143,3 +143,46 @@
   margin-top: 0;
 
  }
+
+ /* section three style here */
+ .section-three{
+  width: 1140px;
+  height: 328px;
+  margin: 70px;
+  
+ }
+
+ .section-three h1{
+  font-size: 42px;
+  text-align: center;
+ }
+
+ .div-three{
+  /* width: 600px; */
+  height: 250px;
+  display: flex;
+  gap: 70px;
+  
+  margin-left: 20px;
+ }
+ .user-review{
+  display: flex;
+  align-items: center;
+  
+ }
+
+ .user-review img{
+  border-radius: 20px;
+ }
+
+ .user-review p{
+  margin-left: 10px;
+ }
+
+ .div-three-container{
+  
+  background-color: #f2ededd0;
+  border-radius: 25px;
+  padding: 10px;
+
+ }
